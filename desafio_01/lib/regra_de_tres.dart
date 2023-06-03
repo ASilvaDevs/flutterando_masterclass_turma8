@@ -24,7 +24,7 @@ void main() {
       print('O resultado da operação é: $resultadoCalculoRegraDeTres');
     } else {
       print(
-          'É necessario digitar no minino 3 numeros para executar um calculo usando regra de três.');
+          'É necessario digitar no minino 3 numeros para executar um calculo usando regra de três. ');
     }
   }
 
